@@ -22,8 +22,8 @@ To write a program to perform selection sort and insertion sort using python pro
 ```
 ''' 
 Program to sort the elements in the list using the Selection Sort algorithm.
-Developed by: Keerthika N
-RegisterNumber: 21000385
+Developed by: S VAISHNAV NANDA
+RegisterNumber: 212222240112
 '''
 def selection_sort(nums):
     for i in range(len(nums)):
@@ -45,8 +45,8 @@ print(values)
 
 ''' 
 Program to sort the elements in the list using the Insertion Sort algorithm.
-Developed by: Keerthika N
-RegisterNumber: 21000385
+Developed by: S VAISHNAV NANDA
+RegisterNumber: 212222240112
 '''
 def insertion_sort(nums):
     for i in range(1,len(nums)):
