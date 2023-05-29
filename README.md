@@ -62,13 +62,13 @@ list_of_nums = eval(input())
 value=insertion_sort(list_of_nums)
 print(value)
 ```
+```
 
+
+
+```
 ## Output:
-```
 
-
-
-```
 ### i) Selection Sort
 ![OUTPUT](./1.png)
 ### ii)	Insertion Sort
