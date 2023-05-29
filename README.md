@@ -64,7 +64,11 @@ print(value)
 ```
 
 ## Output:
+```
 
+
+
+```
 ### i) Selection Sort
 ![OUTPUT](./1.png)
 ### ii)	Insertion Sort
